@@ -4,7 +4,7 @@
 # However, this project is mainly focuses on python.
 # For that, I have to have basic knowledge of python, panda and numpy.
 # Afterwards, to implement this project, it is imperative to learn more about skyfield library and pyephem library.
-# By using libraries, I could show the different zodiac effects on person using birth chart.
-# It is a fun project for me. 
+# By using these libraries, I could show the different zodiac effects on person using birth chart.
 # I have some knowledge of astrology and I am really excited to implement it into the python
+# It is a fun project for me. 
 # I hope you would like this project too.
